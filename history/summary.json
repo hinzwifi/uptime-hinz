@@ -22,19 +22,19 @@
     "url": "https://gps.hinzwifi.xyz/",
     "icon": "https://favicons.githubusercontent.com/gps.hinzwifi.xyz",
     "slug": "mlogger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 565,
-    "timeWeek": 486,
-    "timeMonth": 510,
-    "timeYear": 523,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 526,
+    "timeDay": 579,
+    "timeWeek": 499,
+    "timeMonth": 513,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2021-11-29": 1
+      "2021-11-29": 7
     }
   },
   {
