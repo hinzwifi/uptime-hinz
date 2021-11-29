@@ -22,10 +22,10 @@
     "url": "https://gps.hinzwifi.xyz/",
     "icon": "https://favicons.githubusercontent.com/gps.hinzwifi.xyz",
     "slug": "mlogger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 523,
@@ -33,7 +33,9 @@
     "timeWeek": 486,
     "timeMonth": 510,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-29": 1
+    }
   },
   {
     "name": "Pastebin",
@@ -113,13 +115,13 @@
     "icon": "https://favicons.githubusercontent.com/x4150my.msuiit.edu.ph",
     "slug": "my-iit",
     "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "98.55%",
+    "uptime": "97.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "89.39%",
     "uptimeMonth": "97.56%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.70%",
     "time": 869,
-    "timeDay": 701,
+    "timeDay": 555,
     "timeWeek": 671,
     "timeMonth": 871,
     "timeYear": 869,
