@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/gps.hinzwifi.xyz",
     "slug": "mlogger",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 587,
     "timeWeek": 467,
     "timeMonth": 495,
     "timeYear": 516,
-    "dailyMinutesDown": {
-      "2021-12-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pastebin",
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/paste.hinzwifi.xyz",
     "slug": "pastebin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 433,
     "timeDay": 387,
     "timeWeek": 323,
     "timeMonth": 342,
     "timeYear": 433,
-    "dailyMinutesDown": {
-      "2021-12-11": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plainpad",
