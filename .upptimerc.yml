@@ -19,7 +19,8 @@ sites:
     url: http://x4150my.msuiit.edu.ph/my/getmyiit.php
   - name: Birthdays
     url: https://m.hinzwifi.xyz
-  
+  - name: MuskAPI
+    url: https://muskapi.hinzwifi.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
