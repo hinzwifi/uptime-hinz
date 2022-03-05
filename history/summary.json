@@ -4,19 +4,19 @@
     "url": "https://hinzwifi.xyz",
     "icon": "https://favicons.githubusercontent.com/hinzwifi.xyz",
     "slug": "main-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 208,
-    "timeWeek": 194,
-    "timeMonth": 180,
+    "timeDay": 166,
+    "timeWeek": 181,
+    "timeMonth": 177,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-03-05": 0
+      "2022-03-05": 8
     }
   },
   {
@@ -112,18 +112,18 @@
     "icon": "https://favicons.githubusercontent.com/hinzwifi.xyz",
     "slug": "kee-web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 197,
     "timeDay": 133,
     "timeWeek": 213,
     "timeMonth": 209,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-03-05": 8
+      "2022-03-05": 16
     }
   },
   {
