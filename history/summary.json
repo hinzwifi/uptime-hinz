@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "main-page",
     "status": "up",
-    "uptime": "51.35%",
+    "uptime": "51.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.85%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "20.09%",
     "time": 240,
-    "timeDay": 81,
-    "timeWeek": 151,
+    "timeDay": 166,
+    "timeWeek": 166,
     "timeMonth": 164,
-    "timeYear": 340,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2023-05-23": 176,
       "2023-05-22": 1440,
@@ -311,8 +311,7 @@
       "2022-08-04": 516,
       "2022-07-02": 143,
       "2022-07-01": 27,
-      "2022-06-30": 49,
-      "2022-06-21": 32
+      "2022-06-30": 49
     }
   },
   {
@@ -327,10 +326,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.23%",
     "time": 629,
-    "timeDay": 312,
-    "timeWeek": 494,
-    "timeMonth": 472,
-    "timeYear": 601,
+    "timeDay": 605,
+    "timeWeek": 541,
+    "timeMonth": 475,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2023-03-28": 18,
       "2022-12-23": 55,
@@ -351,8 +350,7 @@
       "2022-07-02": 143,
       "2022-07-01": 27,
       "2022-06-30": 49,
-      "2022-06-27": 18,
-      "2022-06-21": 17
+      "2022-06-27": 18
     }
   },
   {
@@ -367,10 +365,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.23%",
     "time": 577,
-    "timeDay": 317,
-    "timeWeek": 475,
-    "timeMonth": 508,
-    "timeYear": 543,
+    "timeDay": 565,
+    "timeWeek": 509,
+    "timeMonth": 477,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2023-01-19": 19,
       "2022-12-23": 54,
@@ -390,8 +388,7 @@
       "2022-07-02": 143,
       "2022-07-01": 27,
       "2022-06-30": 49,
-      "2022-06-27": 17,
-      "2022-06-21": 17
+      "2022-06-27": 17
     }
   },
   {
@@ -400,18 +397,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.hinzwifi.xyz.ico",
     "slug": "plainpad",
     "status": "down",
-    "uptime": "24.29%",
+    "uptime": "24.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 503,
-    "timeDay": 306,
-    "timeWeek": 446,
-    "timeMonth": 480,
-    "timeYear": 475,
+    "timeDay": 575,
+    "timeWeek": 488,
+    "timeMonth": 482,
+    "timeYear": 476,
     "dailyMinutesDown": {
-      "2023-06-20": 50,
+      "2023-06-21": 53,
+      "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -774,8 +772,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -790,10 +787,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.24%",
     "time": 638,
-    "timeDay": 307,
-    "timeWeek": 447,
-    "timeMonth": 463,
-    "timeYear": 571,
+    "timeDay": 569,
+    "timeWeek": 483,
+    "timeMonth": 466,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2023-01-19": 16,
       "2022-12-23": 51,
@@ -811,8 +808,7 @@
       "2022-07-02": 143,
       "2022-07-01": 27,
       "2022-06-30": 49,
-      "2022-06-27": 16,
-      "2022-06-21": 16
+      "2022-06-27": 16
     }
   },
   {
@@ -821,18 +817,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "kee-web",
     "status": "down",
-    "uptime": "21.33%",
+    "uptime": "21.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 113,
-    "timeDay": 49,
-    "timeWeek": 71,
-    "timeMonth": 91,
-    "timeYear": 104,
+    "time": 112,
+    "timeDay": 95,
+    "timeWeek": 80,
+    "timeMonth": 92,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-06-20": 50,
+      "2023-06-21": 53,
+      "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -1195,8 +1192,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -1207,13 +1203,13 @@
     "status": "up",
     "uptime": "97.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "97.41%",
-    "time": 1381,
-    "timeDay": 1228,
-    "timeWeek": 1789,
-    "timeMonth": 1730,
+    "time": 1382,
+    "timeDay": 1136,
+    "timeWeek": 1314,
+    "timeMonth": 1540,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2023-06-13": 93,
@@ -1250,8 +1246,7 @@
       "2022-07-02": 143,
       "2022-07-01": 27,
       "2022-06-30": 49,
-      "2022-06-25": 684,
-      "2022-06-21": 15
+      "2022-06-25": 684
     }
   },
   {
@@ -1265,10 +1260,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.25%",
-    "time": 596,
-    "timeDay": 300,
-    "timeWeek": 430,
-    "timeMonth": 473,
+    "time": 597,
+    "timeDay": 559,
+    "timeWeek": 468,
+    "timeMonth": 475,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2022-12-23": 49,
@@ -1285,8 +1280,7 @@
       "2022-07-02": 143,
       "2022-07-01": 27,
       "2022-06-30": 49,
-      "2022-06-27": 16,
-      "2022-06-21": 28
+      "2022-06-27": 16
     }
   },
   {
@@ -1295,15 +1289,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/muskapi.hinzwifi.xyz.ico",
     "slug": "musk-api",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.28%",
     "time": 144,
-    "timeDay": 96,
-    "timeWeek": 123,
-    "timeMonth": 131,
+    "timeDay": 213,
+    "timeWeek": 143,
+    "timeMonth": 133,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2022-10-26": 981,
@@ -1317,8 +1311,7 @@
       "2022-08-06": 20,
       "2022-07-02": 143,
       "2022-07-01": 27,
-      "2022-06-30": 49,
-      "2022-06-21": 28
+      "2022-06-30": 49
     }
   }
 ]
