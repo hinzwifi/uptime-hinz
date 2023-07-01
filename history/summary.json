@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "main-page",
     "status": "up",
-    "uptime": "52.15%",
+    "uptime": "52.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.10%",
-    "time": 238,
-    "timeDay": 248,
-    "timeWeek": 137,
-    "timeMonth": 156,
-    "timeYear": 160,
+    "uptimeYear": "20.11%",
+    "time": 237,
+    "timeDay": 67,
+    "timeWeek": 126,
+    "timeMonth": 154,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2023-05-23": 176,
       "2023-05-22": 1440,
@@ -309,8 +309,7 @@
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 516,
-      "2022-07-02": 143,
-      "2022-07-01": 27
+      "2022-07-02": 143
     }
   },
   {
@@ -323,12 +322,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.25%",
     "time": 578,
-    "timeDay": 568,
-    "timeWeek": 451,
-    "timeMonth": 474,
-    "timeYear": 601,
+    "timeDay": 502,
+    "timeWeek": 447,
+    "timeMonth": 470,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2023-03-28": 18,
       "2022-12-23": 55,
@@ -346,8 +345,7 @@
       "2022-08-06": 20,
       "2022-07-27": 31,
       "2022-07-19": 17,
-      "2022-07-02": 143,
-      "2022-07-01": 27
+      "2022-07-02": 143
     }
   },
   {
@@ -360,12 +358,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.25%",
     "time": 577,
-    "timeDay": 512,
-    "timeWeek": 434,
+    "timeDay": 590,
+    "timeWeek": 444,
     "timeMonth": 469,
-    "timeYear": 542,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2023-01-19": 19,
       "2022-12-23": 54,
@@ -382,8 +380,7 @@
       "2022-08-06": 20,
       "2022-07-27": 30,
       "2022-07-19": 15,
-      "2022-07-02": 143,
-      "2022-07-01": 27
+      "2022-07-02": 143
     }
   },
   {
@@ -392,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.hinzwifi.xyz.ico",
     "slug": "plainpad",
     "status": "down",
-    "uptime": "23.89%",
+    "uptime": "23.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 502,
-    "timeDay": 576,
-    "timeWeek": 462,
-    "timeMonth": 481,
+    "timeDay": 506,
+    "timeWeek": 456,
+    "timeMonth": 478,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2023-06-30": 55,
+      "2023-07-01": 63,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -766,8 +764,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -780,12 +777,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.25%",
-    "time": 639,
-    "timeDay": 569,
-    "timeWeek": 441,
-    "timeMonth": 459,
-    "timeYear": 573,
+    "uptimeYear": "98.26%",
+    "time": 609,
+    "timeDay": 497,
+    "timeWeek": 439,
+    "timeMonth": 456,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2023-01-19": 16,
       "2022-12-23": 51,
@@ -800,8 +797,7 @@
       "2022-08-10": 37,
       "2022-08-06": 20,
       "2022-07-27": 24,
-      "2022-07-02": 143,
-      "2022-07-01": 27
+      "2022-07-02": 143
     }
   },
   {
@@ -810,18 +806,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "kee-web",
     "status": "down",
-    "uptime": "20.98%",
+    "uptime": "20.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 108,
-    "timeDay": 73,
-    "timeWeek": 87,
-    "timeMonth": 95,
-    "timeYear": 99,
+    "time": 107,
+    "timeDay": 46,
+    "timeWeek": 75,
+    "timeMonth": 91,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2023-06-30": 55,
+      "2023-07-01": 63,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1184,8 +1181,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -1196,14 +1192,14 @@
     "status": "up",
     "uptime": "97.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.52%",
     "time": 1399,
-    "timeDay": 1556,
-    "timeWeek": 1394,
-    "timeMonth": 1488,
-    "timeYear": 1460,
+    "timeDay": 1224,
+    "timeWeek": 1408,
+    "timeMonth": 1497,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2023-06-28": 28,
       "2023-06-23": 69,
@@ -1239,8 +1235,7 @@
       "2022-08-01": 20,
       "2022-07-09": 101,
       "2022-07-08": 301,
-      "2022-07-02": 143,
-      "2022-07-01": 27
+      "2022-07-02": 143
     }
   },
   {
@@ -1249,16 +1244,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.hinzwifi.xyz.ico",
     "slug": "birthdays",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
-    "time": 502,
-    "timeDay": 525,
-    "timeWeek": 439,
-    "timeMonth": 468,
-    "timeYear": 495,
+    "uptimeYear": "98.27%",
+    "time": 503,
+    "timeDay": 752,
+    "timeWeek": 470,
+    "timeMonth": 472,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2022-12-23": 49,
       "2022-10-26": 1014,
@@ -1271,8 +1266,7 @@
       "2022-08-10": 36,
       "2022-08-06": 20,
       "2022-07-27": 22,
-      "2022-07-02": 143,
-      "2022-07-01": 27
+      "2022-07-02": 143
     }
   },
   {
@@ -1287,10 +1281,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.29%",
     "time": 143,
-    "timeDay": 136,
-    "timeWeek": 113,
-    "timeMonth": 132,
-    "timeYear": 142,
+    "timeDay": 51,
+    "timeWeek": 100,
+    "timeMonth": 128,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2022-10-26": 981,
       "2022-10-25": 1440,
@@ -1301,8 +1295,7 @@
       "2022-10-20": 573,
       "2022-09-14": 18,
       "2022-08-06": 20,
-      "2022-07-02": 143,
-      "2022-07-01": 27
+      "2022-07-02": 143
     }
   }
 ]
