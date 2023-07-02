@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "main-page",
     "status": "up",
-    "uptime": "52.22%",
+    "uptime": "52.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.11%",
+    "uptimeYear": "20.12%",
     "time": 237,
-    "timeDay": 67,
-    "timeWeek": 126,
+    "timeDay": 155,
+    "timeWeek": 138,
     "timeMonth": 154,
     "timeYear": 161,
     "dailyMinutesDown": {
@@ -308,8 +308,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
-      "2022-08-04": 516,
-      "2022-07-02": 143
+      "2022-08-04": 516
     }
   },
   {
@@ -322,12 +321,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.25%",
-    "time": 578,
-    "timeDay": 502,
-    "timeWeek": 447,
-    "timeMonth": 470,
-    "timeYear": 607,
+    "uptimeYear": "98.26%",
+    "time": 573,
+    "timeDay": 490,
+    "timeWeek": 469,
+    "timeMonth": 469,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2023-03-28": 18,
       "2022-12-23": 55,
@@ -344,8 +343,7 @@
       "2022-08-10": 42,
       "2022-08-06": 20,
       "2022-07-27": 31,
-      "2022-07-19": 17,
-      "2022-07-02": 143
+      "2022-07-19": 17
     }
   },
   {
@@ -358,12 +356,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.25%",
-    "time": 577,
-    "timeDay": 590,
-    "timeWeek": 444,
-    "timeMonth": 469,
-    "timeYear": 547,
+    "uptimeYear": "98.26%",
+    "time": 523,
+    "timeDay": 595,
+    "timeWeek": 480,
+    "timeMonth": 470,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2023-01-19": 19,
       "2022-12-23": 54,
@@ -379,8 +377,7 @@
       "2022-08-10": 40,
       "2022-08-06": 20,
       "2022-07-27": 30,
-      "2022-07-19": 15,
-      "2022-07-02": 143
+      "2022-07-19": 15
     }
   },
   {
@@ -389,18 +386,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.hinzwifi.xyz.ico",
     "slug": "plainpad",
     "status": "down",
-    "uptime": "23.85%",
+    "uptime": "23.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 502,
-    "timeDay": 506,
-    "timeWeek": 456,
-    "timeMonth": 478,
+    "timeDay": 490,
+    "timeWeek": 481,
+    "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2023-07-01": 63,
+      "2023-07-02": 60,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -763,8 +761,7 @@
       "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
-      "2022-07-03": 1440,
-      "2022-07-02": 1440
+      "2022-07-03": 1440
     }
   },
   {
@@ -777,12 +774,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.27%",
     "time": 609,
-    "timeDay": 497,
-    "timeWeek": 439,
-    "timeMonth": 456,
-    "timeYear": 578,
+    "timeDay": 507,
+    "timeWeek": 464,
+    "timeMonth": 453,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2023-01-19": 16,
       "2022-12-23": 51,
@@ -796,8 +793,7 @@
       "2022-10-12": 41,
       "2022-08-10": 37,
       "2022-08-06": 20,
-      "2022-07-27": 24,
-      "2022-07-02": 143
+      "2022-07-27": 24
     }
   },
   {
@@ -806,18 +802,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "kee-web",
     "status": "down",
-    "uptime": "20.94%",
+    "uptime": "20.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 107,
-    "timeDay": 46,
-    "timeWeek": 75,
+    "time": 106,
+    "timeDay": 73,
+    "timeWeek": 79,
     "timeMonth": 91,
-    "timeYear": 98,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-07-01": 63,
+      "2023-07-02": 60,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -1180,8 +1177,7 @@
       "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
-      "2022-07-03": 1440,
-      "2022-07-02": 1440
+      "2022-07-03": 1440
     }
   },
   {
@@ -1190,16 +1186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/x4150my.msuiit.edu.ph.ico",
     "slug": "my-iit",
     "status": "up",
-    "uptime": "97.78%",
+    "uptime": "97.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "97.52%",
-    "time": 1399,
-    "timeDay": 1224,
-    "timeWeek": 1408,
-    "timeMonth": 1497,
-    "timeYear": 1468,
+    "uptimeYear": "97.53%",
+    "time": 1400,
+    "timeDay": 1014,
+    "timeWeek": 1314,
+    "timeMonth": 1495,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2023-06-28": 28,
       "2023-06-23": 69,
@@ -1234,8 +1230,7 @@
       "2022-08-06": 20,
       "2022-08-01": 20,
       "2022-07-09": 101,
-      "2022-07-08": 301,
-      "2022-07-02": 143
+      "2022-07-08": 301
     }
   },
   {
@@ -1248,12 +1243,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 503,
-    "timeDay": 752,
-    "timeWeek": 470,
-    "timeMonth": 472,
-    "timeYear": 499,
+    "timeDay": 489,
+    "timeWeek": 494,
+    "timeMonth": 471,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2022-12-23": 49,
       "2022-10-26": 1014,
@@ -1265,8 +1260,7 @@
       "2022-10-20": 573,
       "2022-08-10": 36,
       "2022-08-06": 20,
-      "2022-07-27": 22,
-      "2022-07-02": 143
+      "2022-07-27": 22
     }
   },
   {
@@ -1279,10 +1273,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.31%",
     "time": 143,
-    "timeDay": 51,
-    "timeWeek": 100,
+    "timeDay": 148,
+    "timeWeek": 108,
     "timeMonth": 128,
     "timeYear": 143,
     "dailyMinutesDown": {
@@ -1294,8 +1288,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 573,
       "2022-09-14": 18,
-      "2022-08-06": 20,
-      "2022-07-02": 143
+      "2022-08-06": 20
     }
   }
 ]
