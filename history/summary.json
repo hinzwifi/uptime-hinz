@@ -6,17 +6,17 @@
     "slug": "main-page",
     "status": "up",
     "uptime": "59.60%",
-    "uptimeDay": "63.48%",
-    "uptimeWeek": "79.79%",
-    "uptimeMonth": "95.35%",
-    "uptimeYear": "41.77%",
+    "uptimeDay": "64.16%",
+    "uptimeWeek": "79.88%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "41.78%",
     "time": 227,
-    "timeDay": 215,
+    "timeDay": 220,
     "timeWeek": 284,
     "timeMonth": 247,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2023-10-23": 528,
+      "2023-10-23": 520,
       "2023-10-22": 733,
       "2023-10-21": 780,
       "2023-05-23": 176,
@@ -229,8 +229,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -238,19 +237,20 @@
     "url": "https://gps.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/gps.hinzwifi.xyz.ico",
     "slug": "mlogger",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "55.37%",
-    "uptimeWeek": "80.88%",
-    "uptimeMonth": "95.29%",
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "55.29%",
+    "uptimeWeek": "80.54%",
+    "uptimeMonth": "95.21%",
     "uptimeYear": "98.85%",
     "time": 564,
-    "timeDay": 197,
-    "timeWeek": 274,
-    "timeMonth": 503,
+    "timeDay": 202,
+    "timeWeek": 275,
+    "timeMonth": 501,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-10-23": 637,
+      "2023-10-24": 27,
+      "2023-10-23": 644,
       "2023-10-22": 502,
       "2023-10-21": 789,
       "2023-10-12": 19,
@@ -259,8 +259,7 @@
       "2023-03-28": 18,
       "2022-12-23": 55,
       "2022-10-26": 1014,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -268,18 +267,19 @@
     "url": "https://paste.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/paste.hinzwifi.xyz.ico",
     "slug": "pastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "65.83%",
+    "uptimeDay": "68.12%",
     "uptimeWeek": "80.17%",
     "uptimeMonth": "95.13%",
-    "uptimeYear": "98.84%",
-    "time": 492,
+    "uptimeYear": "98.85%",
+    "time": 493,
     "timeDay": 216,
     "timeWeek": 292,
     "timeMonth": 327,
     "timeYear": 468,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-10-23": 486,
       "2023-10-22": 682,
       "2023-10-21": 829,
@@ -289,8 +289,7 @@
       "2023-01-19": 19,
       "2022-12-23": 54,
       "2022-10-26": 1014,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -298,18 +297,19 @@
     "url": "https://notes.hinzwifi.xyz/public/",
     "icon": "https://icons.duckduckgo.com/ip3/notes.hinzwifi.xyz.ico",
     "slug": "plainpad",
-    "status": "up",
+    "status": "down",
     "uptime": "20.26%",
-    "uptimeDay": "49.37%",
-    "uptimeWeek": "18.98%",
-    "uptimeMonth": "5.75%",
-    "uptimeYear": "0.36%",
+    "uptimeDay": "49.34%",
+    "uptimeWeek": "19.32%",
+    "uptimeMonth": "5.83%",
+    "uptimeYear": "0.37%",
     "time": 442,
     "timeDay": 211,
     "timeWeek": 224,
     "timeMonth": 273,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-10-23": 730,
       "2023-10-22": 758,
       "2023-10-21": 911,
@@ -673,8 +673,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -682,11 +681,11 @@
     "url": "https://share.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/share.hinzwifi.xyz.ico",
     "slug": "file-share",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "42.20%",
+    "uptimeDay": "44.50%",
     "uptimeWeek": "77.93%",
-    "uptimeMonth": "94.63%",
+    "uptimeMonth": "94.62%",
     "uptimeYear": "98.80%",
     "time": 502,
     "timeDay": 232,
@@ -694,6 +693,7 @@
     "timeMonth": 288,
     "timeYear": 464,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-10-23": 827,
       "2023-10-22": 804,
       "2023-10-21": 596,
@@ -703,8 +703,7 @@
       "2023-01-19": 16,
       "2022-12-23": 51,
       "2022-10-26": 1014,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -714,17 +713,17 @@
     "slug": "kee-web",
     "status": "up",
     "uptime": "17.84%",
-    "uptimeDay": "63.50%",
-    "uptimeWeek": "21.87%",
-    "uptimeMonth": "6.41%",
-    "uptimeYear": "0.42%",
+    "uptimeDay": "64.17%",
+    "uptimeWeek": "22.30%",
+    "uptimeMonth": "6.51%",
+    "uptimeYear": "0.43%",
     "time": 96,
-    "timeDay": 119,
+    "timeDay": 123,
     "timeWeek": 119,
     "timeMonth": 108,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2023-10-23": 528,
+      "2023-10-23": 520,
       "2023-10-22": 734,
       "2023-10-21": 850,
       "2023-10-20": 1440,
@@ -1087,8 +1086,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -1148,7 +1146,7 @@
     "slug": "birthdays",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "54.24%",
+    "uptimeDay": "56.57%",
     "uptimeWeek": "77.55%",
     "uptimeMonth": "94.54%",
     "uptimeYear": "98.79%",
@@ -1168,8 +1166,7 @@
       "2023-09-21": 6,
       "2022-12-23": 49,
       "2022-10-26": 1014,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -1177,24 +1174,24 @@
     "url": "https://muskapi.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/muskapi.hinzwifi.xyz.ico",
     "slug": "musk-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "45.23%",
-    "uptimeWeek": "79.18%",
+    "uptimeDay": "45.28%",
+    "uptimeWeek": "79.17%",
     "uptimeMonth": "95.21%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 143,
-    "timeDay": 205,
+    "timeDay": 210,
     "timeWeek": 174,
     "timeMonth": 159,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2023-10-24": 1,
       "2023-10-23": 786,
       "2023-10-22": 593,
       "2023-10-21": 721,
       "2022-10-26": 981,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   }
 ]
