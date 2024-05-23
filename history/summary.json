@@ -105,7 +105,7 @@
     "timeMonth": 420,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2024-05-23": 418,
+      "2024-05-23": 454,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -326,18 +326,19 @@
     "url": "https://share.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/share.hinzwifi.xyz.ico",
     "slug": "file-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
-    "time": 446,
+    "uptimeYear": "99.24%",
+    "time": 447,
     "timeDay": 554,
     "timeWeek": 488,
     "timeMonth": 458,
     "timeYear": 421,
     "dailyMinutesDown": {
+      "2024-05-23": 0,
       "2024-04-21": 215,
       "2024-04-20": 45,
       "2024-04-19": 18,
@@ -350,7 +351,7 @@
       "2023-10-26": 733,
       "2023-10-25": 605,
       "2023-10-24": 645,
-      "2023-10-23": 66
+      "2023-10-23": 33
     }
   },
   {
@@ -370,7 +371,7 @@
     "timeMonth": 73,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-05-23": 418,
+      "2024-05-23": 454,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -596,14 +597,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.79%",
+    "uptimeYear": "41.78%",
     "time": 1483,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1495,
     "dailyMinutesDown": {
-      "2024-05-23": 418,
+      "2024-05-23": 455,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
