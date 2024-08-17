@@ -105,7 +105,7 @@
     "timeMonth": 547,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-08-17": 225,
+      "2024-08-17": 233,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
@@ -412,15 +412,15 @@
     "url": "https://share.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/share.hinzwifi.xyz.ico",
     "slug": "file-share",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "71.39%",
-    "uptimeYear": "96.92%",
+    "uptimeYear": "96.93%",
     "time": 613,
     "timeDay": 7319,
-    "timeWeek": 5764,
+    "timeWeek": 5635,
     "timeMonth": 2089,
     "timeYear": 631,
     "dailyMinutesDown": {
@@ -452,7 +452,7 @@
       "2023-10-27": 664,
       "2023-10-26": 733,
       "2023-10-25": 605,
-      "2023-10-24": 307
+      "2023-10-24": 260
     }
   },
   {
@@ -472,7 +472,7 @@
     "timeMonth": 95,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-08-17": 225,
+      "2024-08-17": 233,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
@@ -791,7 +791,7 @@
     "timeMonth": 0,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2024-08-17": 225,
+      "2024-08-17": 233,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
