@@ -4,9 +4,9 @@
     "url": "https://hinzwifi.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "main-page",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
@@ -16,13 +16,14 @@
     "timeMonth": 311,
     "timeYear": 180,
     "dailyMinutesDown": {
+      "2024-10-21": 0,
       "2023-10-29": 246,
       "2023-10-28": 620,
       "2023-10-27": 744,
       "2023-10-26": 672,
       "2023-10-25": 807,
       "2023-10-24": 730,
-      "2023-10-23": 36
+      "2023-10-23": 17
     }
   },
   {
@@ -30,9 +31,9 @@
     "url": "https://gps.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/gps.hinzwifi.xyz.ico",
     "slug": "mlogger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
@@ -42,6 +43,7 @@
     "timeMonth": 617,
     "timeYear": 729,
     "dailyMinutesDown": {
+      "2024-10-21": 0,
       "2024-05-23": 44,
       "2024-04-21": 215,
       "2024-04-20": 49,
@@ -54,7 +56,7 @@
       "2023-10-26": 525,
       "2023-10-25": 468,
       "2023-10-24": 796,
-      "2023-10-23": 92
+      "2023-10-23": 76
     }
   },
   {
@@ -62,18 +64,19 @@
     "url": "https://paste.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/paste.hinzwifi.xyz.ico",
     "slug": "pastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 590,
     "timeDay": 399,
     "timeWeek": 622,
     "timeMonth": 550,
     "timeYear": 630,
     "dailyMinutesDown": {
+      "2024-10-21": 0,
       "2024-05-23": 17,
       "2024-04-21": 215,
       "2024-04-20": 48,
@@ -85,7 +88,7 @@
       "2023-10-27": 645,
       "2023-10-26": 722,
       "2023-10-25": 753,
-      "2023-10-24": 139
+      "2023-10-24": 80
     }
   },
   {
@@ -105,7 +108,7 @@
     "timeMonth": 561,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-10-21": 57,
+      "2024-10-21": 73,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -489,7 +492,7 @@
     "timeMonth": 852,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2024-10-21": 57,
+      "2024-10-21": 73,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -592,7 +595,7 @@
     "timeMonth": 109,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-10-21": 57,
+      "2024-10-21": 73,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -969,14 +972,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.92%",
+    "uptimeYear": "0.91%",
     "time": 1486,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2024-10-21": 57,
+      "2024-10-21": 73,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -1346,9 +1349,9 @@
     "url": "https://m.hinzwifi.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/m.hinzwifi.xyz.ico",
     "slug": "birthdays",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
@@ -1358,6 +1361,7 @@
     "timeMonth": 567,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-10-21": 0,
       "2024-06-19": 22,
       "2024-04-21": 215,
       "2024-04-20": 45,
@@ -1370,8 +1374,7 @@
       "2023-10-27": 577,
       "2023-10-26": 525,
       "2023-10-25": 690,
-      "2023-10-24": 697,
-      "2023-10-23": 17
+      "2023-10-24": 697
     }
   },
   {
@@ -1379,25 +1382,26 @@
     "url": "https://muskapi.hinzwifi.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/muskapi.hinzwifi.xyz.ico",
     "slug": "musk-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 146,
     "timeDay": 108,
     "timeWeek": 141,
     "timeMonth": 148,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2024-10-21": 0,
       "2023-10-29": 157,
       "2023-10-28": 827,
       "2023-10-27": 679,
       "2023-10-26": 708,
       "2023-10-25": 647,
       "2023-10-24": 682,
-      "2023-10-23": 200
+      "2023-10-23": 133
     }
   }
 ]
