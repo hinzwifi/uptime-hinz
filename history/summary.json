@@ -10,18 +10,17 @@
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.26%",
-    "time": 179,
-    "timeDay": 137,
-    "timeWeek": 187,
-    "timeMonth": 311,
-    "timeYear": 167,
+    "time": 180,
+    "timeDay": 395,
+    "timeWeek": 219,
+    "timeMonth": 313,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2023-10-29": 246,
       "2023-10-28": 620,
       "2023-10-27": 744,
-      "2023-10-26": 672,
-      "2023-10-25": 807
+      "2023-10-26": 672
     }
   },
   {
@@ -34,12 +33,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.27%",
-    "time": 723,
-    "timeDay": 178,
-    "timeWeek": 571,
-    "timeMonth": 586,
-    "timeYear": 766,
+    "uptimeYear": "99.29%",
+    "time": 731,
+    "timeDay": 373,
+    "timeWeek": 393,
+    "timeMonth": 578,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2024-05-23": 44,
@@ -51,8 +50,7 @@
       "2023-10-29": 204,
       "2023-10-28": 591,
       "2023-10-27": 637,
-      "2023-10-26": 525,
-      "2023-10-25": 468
+      "2023-10-26": 525
     }
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.30%",
-    "time": 606,
-    "timeDay": 225,
-    "timeWeek": 441,
-    "timeMonth": 511,
-    "timeYear": 655,
+    "time": 631,
+    "timeDay": 392,
+    "timeWeek": 346,
+    "timeMonth": 502,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2024-10-21": 115,
       "2024-05-23": 17,
@@ -82,8 +80,7 @@
       "2023-10-29": 263,
       "2023-10-28": 678,
       "2023-10-27": 645,
-      "2023-10-26": 722,
-      "2023-10-25": 753
+      "2023-10-26": 722
     }
   },
   {
@@ -92,16 +89,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.hinzwifi.xyz.ico",
     "slug": "plainpad",
     "status": "up",
-    "uptime": "66.95%",
+    "uptime": "66.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "27.58%",
-    "uptimeMonth": "7.73%",
-    "uptimeYear": "1.25%",
+    "uptimeWeek": "41.87%",
+    "uptimeMonth": "11.02%",
+    "uptimeYear": "1.27%",
     "time": 418,
-    "timeDay": 239,
-    "timeWeek": 429,
-    "timeMonth": 525,
-    "timeYear": 437,
+    "timeDay": 364,
+    "timeWeek": 365,
+    "timeMonth": 518,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2024-10-21": 154,
       "2024-10-20": 1440,
@@ -464,8 +461,7 @@
       "2023-10-29": 1160,
       "2023-10-28": 749,
       "2023-10-27": 558,
-      "2023-10-26": 692,
-      "2023-10-25": 838
+      "2023-10-26": 692
     }
   },
   {
@@ -476,14 +472,14 @@
     "status": "up",
     "uptime": "94.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "27.58%",
-    "uptimeMonth": "7.73%",
+    "uptimeWeek": "41.87%",
+    "uptimeMonth": "11.02%",
     "uptimeYear": "82.72%",
     "time": 710,
-    "timeDay": 238,
-    "timeWeek": 546,
-    "timeMonth": 793,
-    "timeYear": 775,
+    "timeDay": 391,
+    "timeWeek": 504,
+    "timeMonth": 784,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2024-10-21": 154,
       "2024-10-20": 1440,
@@ -566,8 +562,7 @@
       "2023-10-29": 320,
       "2023-10-28": 515,
       "2023-10-27": 664,
-      "2023-10-26": 733,
-      "2023-10-25": 605
+      "2023-10-26": 733
     }
   },
   {
@@ -576,16 +571,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "kee-web",
     "status": "up",
-    "uptime": "66.95%",
+    "uptime": "66.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "27.59%",
-    "uptimeMonth": "7.73%",
-    "uptimeYear": "1.26%",
+    "uptimeWeek": "41.87%",
+    "uptimeMonth": "11.02%",
+    "uptimeYear": "1.27%",
     "time": 93,
-    "timeDay": 93,
-    "timeWeek": 128,
-    "timeMonth": 114,
-    "timeYear": 91,
+    "timeDay": 219,
+    "timeWeek": 145,
+    "timeMonth": 115,
+    "timeYear": 89,
     "dailyMinutesDown": {
       "2024-10-21": 154,
       "2024-10-20": 1440,
@@ -948,8 +943,7 @@
       "2023-10-29": 1145,
       "2023-10-28": 620,
       "2023-10-27": 743,
-      "2023-10-26": 674,
-      "2023-10-25": 807
+      "2023-10-26": 674
     }
   },
   {
@@ -958,18 +952,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/x4150my.msuiit.edu.ph.ico",
     "slug": "my-iit",
     "status": "down",
-    "uptime": "65.29%",
+    "uptime": "65.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
-    "time": 1486,
+    "uptimeYear": "0.09%",
+    "time": 1488,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1429,
+    "timeYear": 1036,
     "dailyMinutesDown": {
-      "2024-10-23": 55,
+      "2024-10-24": 55,
+      "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1332,8 +1327,7 @@
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
-      "2023-10-26": 1440,
-      "2023-10-25": 892
+      "2023-10-26": 1440
     }
   },
   {
@@ -1348,10 +1342,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.24%",
     "time": 422,
-    "timeDay": 168,
-    "timeWeek": 519,
-    "timeMonth": 539,
-    "timeYear": 443,
+    "timeDay": 310,
+    "timeWeek": 349,
+    "timeMonth": 529,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2024-06-19": 22,
@@ -1364,8 +1358,7 @@
       "2023-10-29": 226,
       "2023-10-28": 688,
       "2023-10-27": 577,
-      "2023-10-26": 525,
-      "2023-10-25": 690
+      "2023-10-26": 525
     }
   },
   {
@@ -1378,19 +1371,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.26%",
-    "time": 148,
-    "timeDay": 155,
-    "timeWeek": 185,
-    "timeMonth": 154,
-    "timeYear": 150,
+    "uptimeYear": "99.29%",
+    "time": 149,
+    "timeDay": 314,
+    "timeWeek": 205,
+    "timeMonth": 157,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2023-10-29": 157,
       "2023-10-28": 827,
       "2023-10-27": 679,
-      "2023-10-26": 708,
-      "2023-10-25": 647
+      "2023-10-26": 708
     }
   }
 ]
