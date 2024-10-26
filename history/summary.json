@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.41%",
-    "time": 180,
-    "timeDay": 131,
-    "timeWeek": 223,
-    "timeMonth": 313,
-    "timeYear": 163,
+    "uptimeYear": "99.56%",
+    "time": 166,
+    "timeDay": 109,
+    "timeWeek": 195,
+    "timeMonth": 312,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2023-10-29": 246,
-      "2023-10-28": 620,
-      "2023-10-27": 744
+      "2023-10-28": 620
     }
   },
   {
@@ -32,12 +31,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.44%",
-    "time": 729,
-    "timeDay": 91,
-    "timeWeek": 364,
-    "timeMonth": 570,
-    "timeYear": 824,
+    "uptimeYear": "99.52%",
+    "time": 768,
+    "timeDay": 80,
+    "timeWeek": 314,
+    "timeMonth": 557,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2024-05-23": 44,
@@ -47,8 +46,7 @@
       "2023-12-19": 104,
       "2023-12-18": 33,
       "2023-10-29": 204,
-      "2023-10-28": 591,
-      "2023-10-27": 637
+      "2023-10-28": 591
     }
   },
   {
@@ -61,12 +59,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.32%",
-    "time": 631,
-    "timeDay": 65,
-    "timeWeek": 312,
-    "timeMonth": 493,
-    "timeYear": 696,
+    "uptimeYear": "99.47%",
+    "time": 659,
+    "timeDay": 74,
+    "timeWeek": 259,
+    "timeMonth": 482,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2024-10-21": 115,
       "2024-05-23": 17,
@@ -76,8 +74,7 @@
       "2023-12-19": 102,
       "2023-12-18": 18,
       "2023-10-29": 263,
-      "2023-10-28": 678,
-      "2023-10-27": 645
+      "2023-10-28": 678
     }
   },
   {
@@ -86,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.hinzwifi.xyz.ico",
     "slug": "plainpad",
     "status": "up",
-    "uptime": "67.01%",
+    "uptime": "67.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.16%",
-    "uptimeMonth": "14.30%",
-    "uptimeYear": "1.40%",
-    "time": 428,
-    "timeDay": 61,
-    "timeWeek": 333,
-    "timeMonth": 509,
-    "timeYear": 462,
+    "uptimeWeek": "70.43%",
+    "uptimeMonth": "17.59%",
+    "uptimeYear": "1.57%",
+    "time": 427,
+    "timeDay": 83,
+    "timeWeek": 280,
+    "timeMonth": 499,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2024-10-21": 154,
       "2024-10-20": 1440,
@@ -456,8 +453,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1160,
-      "2023-10-28": 749,
-      "2023-10-27": 558
+      "2023-10-28": 749
     }
   },
   {
@@ -468,14 +464,14 @@
     "status": "up",
     "uptime": "94.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.16%",
-    "uptimeMonth": "14.30%",
-    "uptimeYear": "82.75%",
-    "time": 751,
-    "timeDay": 76,
-    "timeWeek": 420,
-    "timeMonth": 759,
-    "timeYear": 827,
+    "uptimeWeek": "70.43%",
+    "uptimeMonth": "17.59%",
+    "uptimeYear": "82.86%",
+    "time": 752,
+    "timeDay": 73,
+    "timeWeek": 359,
+    "timeMonth": 734,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2024-10-21": 154,
       "2024-10-20": 1440,
@@ -556,8 +552,7 @@
       "2023-12-19": 121,
       "2023-12-18": 47,
       "2023-10-29": 320,
-      "2023-10-28": 515,
-      "2023-10-27": 664
+      "2023-10-28": 515
     }
   },
   {
@@ -566,15 +561,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "kee-web",
     "status": "up",
-    "uptime": "67.01%",
+    "uptime": "67.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.16%",
-    "uptimeMonth": "14.30%",
-    "uptimeYear": "1.41%",
-    "time": 93,
-    "timeDay": 44,
-    "timeWeek": 141,
-    "timeMonth": 114,
+    "uptimeWeek": "70.43%",
+    "uptimeMonth": "17.59%",
+    "uptimeYear": "1.57%",
+    "time": 90,
+    "timeDay": 43,
+    "timeWeek": 120,
+    "timeMonth": 112,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2024-10-21": 154,
@@ -936,8 +931,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1145,
-      "2023-10-28": 620,
-      "2023-10-27": 743
+      "2023-10-28": 620
     }
   },
   {
@@ -946,18 +940,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/x4150my.msuiit.edu.ph.ico",
     "slug": "my-iit",
     "status": "down",
-    "uptime": "65.17%",
+    "uptime": "65.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1491,
+    "time": 1490,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-25": 56,
+      "2024-10-26": 54,
+      "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
@@ -1320,8 +1315,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   },
   {
@@ -1334,12 +1328,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.39%",
-    "time": 422,
-    "timeDay": 66,
-    "timeWeek": 317,
-    "timeMonth": 520,
-    "timeYear": 467,
+    "uptimeYear": "99.52%",
+    "time": 441,
+    "timeDay": 112,
+    "timeWeek": 258,
+    "timeMonth": 505,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2024-06-19": 22,
@@ -1350,8 +1344,7 @@
       "2023-12-19": 113,
       "2023-12-18": 27,
       "2023-10-29": 226,
-      "2023-10-28": 688,
-      "2023-10-27": 577
+      "2023-10-28": 688
     }
   },
   {
@@ -1364,17 +1357,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.53%",
     "time": 151,
-    "timeDay": 67,
-    "timeWeek": 199,
-    "timeMonth": 156,
-    "timeYear": 145,
+    "timeDay": 99,
+    "timeWeek": 183,
+    "timeMonth": 155,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2024-10-21": 82,
       "2023-10-29": 157,
-      "2023-10-28": 827,
-      "2023-10-27": 679
+      "2023-10-28": 827
     }
   }
 ]
