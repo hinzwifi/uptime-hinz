@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "main-page",
     "status": "down",
-    "uptime": "96.57%",
+    "uptime": "96.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.39%",
-    "uptimeYear": "86.61%",
+    "uptimeYear": "86.34%",
     "time": 205,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1610,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -75,18 +76,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gps.hinzwifi.xyz.ico",
     "slug": "mlogger",
     "status": "down",
-    "uptime": "96.58%",
+    "uptime": "96.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.45%",
-    "uptimeYear": "86.56%",
-    "time": 984,
+    "uptimeYear": "86.29%",
+    "time": 986,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 431,
-    "timeYear": 1091,
+    "timeYear": 1092,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -143,8 +145,7 @@
       "2025-04-18": 61,
       "2025-03-29": 28,
       "2025-02-24": 20,
-      "2025-01-23": 17,
-      "2024-12-12": 101
+      "2025-01-23": 17
     }
   },
   {
@@ -153,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.hinzwifi.xyz.ico",
     "slug": "pastebin",
     "status": "down",
-    "uptime": "96.58%",
+    "uptime": "96.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.45%",
-    "uptimeYear": "86.58%",
+    "uptimeYear": "86.30%",
     "time": 820,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2606,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -219,8 +221,7 @@
       "2025-04-29": 24,
       "2025-04-18": 60,
       "2025-02-24": 19,
-      "2025-01-23": 16,
-      "2024-12-12": 86
+      "2025-01-23": 16
     }
   },
   {
@@ -229,18 +230,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.hinzwifi.xyz.ico",
     "slug": "plainpad",
     "status": "down",
-    "uptime": "48.98%",
+    "uptime": "48.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.40%",
     "uptimeYear": "0.59%",
-    "time": 692,
+    "time": 693,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1111,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -602,8 +604,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -612,18 +613,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.hinzwifi.xyz.ico",
     "slug": "file-share",
     "status": "down",
-    "uptime": "68.74%",
+    "uptime": "68.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.31%",
     "uptimeYear": "0.58%",
-    "time": 751,
+    "time": 750,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1534,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -985,8 +987,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -995,7 +996,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinzwifi.xyz.ico",
     "slug": "kee-web",
     "status": "down",
-    "uptime": "48.98%",
+    "uptime": "48.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.40%",
@@ -1006,7 +1007,8 @@
     "timeMonth": 244,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -1368,8 +1370,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -1378,7 +1379,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/x4150my.msuiit.edu.ph.ico",
     "slug": "my-iit",
     "status": "down",
-    "uptime": "47.32%",
+    "uptime": "47.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1389,7 +1390,8 @@
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -1752,8 +1754,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -1762,18 +1763,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.hinzwifi.xyz.ico",
     "slug": "birthdays",
     "status": "down",
-    "uptime": "96.57%",
+    "uptime": "96.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.45%",
-    "uptimeYear": "86.57%",
+    "uptimeYear": "86.30%",
     "time": 821,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 400,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -1829,8 +1831,7 @@
       "2025-02-24": 17,
       "2025-02-09": 19,
       "2025-01-24": 41,
-      "2025-01-23": 5,
-      "2024-12-12": 95
+      "2025-01-23": 5
     }
   },
   {
@@ -1839,18 +1840,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/muskapi.hinzwifi.xyz.ico",
     "slug": "musk-api",
     "status": "down",
-    "uptime": "96.33%",
+    "uptime": "96.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.30%",
-    "uptimeYear": "86.61%",
+    "uptimeYear": "86.33%",
     "time": 201,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1912,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-12-11": 68,
+      "2025-12-12": 68,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
